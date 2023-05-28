@@ -10,12 +10,16 @@ A ideia de premiar ou ser premiado é para reconhecer:
 
 ### Perguntas a serem respondidas
 1- Quantas vezes Natalie Portman foi indicada ao Oscar?
+3 vezes.
 
 2- Quantos Oscars Natalie Portman ganhou?
+1 Oscar.
 
 3- Amy Adams já ganhou algum Oscar?
+Não.
 
 4- A série de filmes Toy Story ganhou um Oscar em quais anos?
+2011 e 2020.
 
 5- Quem tem mais Oscars: a categoria "Melhor Ator" ou "Melhor Filme"?
 
@@ -36,6 +40,9 @@ A ideia de premiar ou ser premiado é para reconhecer:
 13- Qual foi o primeiro ano a ter um prêmio do Oscar?
 
 14 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?
+Melhor Diretor: Peter Jackson
+Melhor Atriz: Renée Zellweger
+Melhor filme: The Lord of the Rings: The Return of the King
 
 15- Agora procure 7 atrizes que não sejam americanas, europeias ou brasileiras.  Vamos cadastrá-los no nosso banco, mas eles ainda não ganharam o Oscar. Só foram nomeados.
 
